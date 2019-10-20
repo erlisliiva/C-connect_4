@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Erlis\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Erlis\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Erlis\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_icd0008-2019f.-644908924.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Erlis\RiderProjects\C-connect_4" t="IncludeFlat">
+      <e p="Connect_4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Connect_4.csproj" t="IncludeRecursive" />
+        <e p="gameSettings.json" t="Include" />
+        <e p="gameStates.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Connect_4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="GameEngine" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CellState.cs" t="Include" />
+        <e p="ConfigHandler.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="GameEngine.csproj" t="IncludeRecursive" />
+        <e p="GameHandler.cs" t="Include" />
+        <e p="GameLogic.cs" t="Include" />
+        <e p="GameSettings.cs" t="Include" />
+        <e p="GameStatus.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="GameEngine.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GameUi" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GameUi.cs" t="Include" />
+        <e p="GameUi.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="GameUi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="icd0008-2019f.sln" t="IncludeFlat" />
+      <e p="JsonTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="JsonTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="JsonTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="test.json" t="Include" />
+      </e>
+      <e p="MenuSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Menu.cs" t="Include" />
+        <e p="MenuItem.cs" t="Include" />
+        <e p="MenuSystem.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="MenuSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
