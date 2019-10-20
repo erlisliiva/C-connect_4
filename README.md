@@ -1,2 +1,3 @@
-# icd0008-2019f
+c# connect-4 console game.
 
+not complete.
